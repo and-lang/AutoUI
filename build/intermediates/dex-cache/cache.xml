@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre\.android\build-cache\048ddf6ebe4bb11dbe9aedb817221600632a3433\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\AndroidStudioProjects\AutoUIExcitement1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1585c3ddff8458ff9f2bf1de95a9ab3894c9fafe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre\.android\build-cache\65524ce786db9345542b8ccab3e8bc7cc183c7cf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\AndroidStudioProjects\AutoUIExcitement1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d95dfef2801d6b4c3fe3737c1aafd479e341210\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre\.android\build-cache\3ace30982d19a9d2dd0bff549104251367c32efb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\AndroidStudioProjects\AutoUIExcitement1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_00590a85e2ac006ae0c96f0bfba7ff924bddf0eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre\.android\build-cache\795c5a3e7a96c421ad91ffe398d61ace1e4cb1cf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidStudioProjects\AutoUIExcitement1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3527e30cf33b17125aafa17f7a1668db1ffcbb0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre\.android\build-cache\c8333d645dbf70d1610ef3dc47f992ed5df2c8d7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\AndroidStudioProjects\AutoUIExcitement1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed81f40f93f14dead23a830c1842cfad6229d43e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre\.android\build-cache\68232cc229f58eeb177172cd59d36e66f3411251\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\AndroidStudioProjects\AutoUIExcitement1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f9439c017d07e40842a0857df3db79f63cab0583\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\AutoUIExcitement1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b7ed88700a731e8326c435ea0391b020e887a050">
+        <dex dex="D:\AndroidStudioProjects\AutoUIExcitement1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_102a213962eec18182b72f9947c04366b028910f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre\.android\build-cache\0a33d1bed2b694a7fb1300defa716f8eac0808d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\AndroidStudioProjects\AutoUIExcitement1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a1032f55ca9cc88a19afb1fcfb69f6928df5273f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre\.android\build-cache\db96f2cc4d600d58ba770ed833182d86c7eb910b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\AndroidStudioProjects\AutoUIExcitement1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_48a517f8d495cd448277919c8a763bb3b19dcc97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre\.android\build-cache\216cc2523b9961a96ac63898e2baf504f19c36d0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\AndroidStudioProjects\AutoUIExcitement1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e6b0014bf1bfc1a9097ba4446290268fa53fb2d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre\.android\build-cache\9af8c7a036bc4a87d35dfe00aff4f9cf9493cfca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\AndroidStudioProjects\AutoUIExcitement1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8233c05392aa81eac395fbdb35d376b073c79f83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\AndroidStudioProjects\AutoUIExcitement1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_15f47134d0ef59157c09980f74bf37b563287470\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk1\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\AndroidStudioProjects\AutoUIExcitement1\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_aefe31071e530355367f8ce426b1515a0a2bd4a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\AutoUIExcitement1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\AndroidStudioProjects\AutoUIExcitement1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5369121f540975d8e16417555f824b83b77663de\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Andre\.android\build-cache\65524ce786db9345542b8ccab3e8bc7cc183c7cf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Andre\.android\build-cache\795c5a3e7a96c421ad91ffe398d61ace1e4cb1cf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Andre\.android\build-cache\216cc2523b9961a96ac63898e2baf504f19c36d0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Andre\.android\build-cache\c8333d645dbf70d1610ef3dc47f992ed5df2c8d7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Andre\.android\build-cache\3ace30982d19a9d2dd0bff549104251367c32efb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Andre\.android\build-cache\68232cc229f58eeb177172cd59d36e66f3411251\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Andre\.android\build-cache\0a33d1bed2b694a7fb1300defa716f8eac0808d9\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Andre\.android\build-cache\db96f2cc4d600d58ba770ed833182d86c7eb910b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Andre\.android\build-cache\9af8c7a036bc4a87d35dfe00aff4f9cf9493cfca\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Andre\.android\build-cache\048ddf6ebe4bb11dbe9aedb817221600632a3433\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.andre.autouiexcitement1.MainActivity
+ADDED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.andre.autouiexcitement1.DisplayAccelerometerDataActivity
+ADDED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml:19:9-21:20
+	android:parentActivityName
+		ADDED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml:20:13-55
+	android:name
+		ADDED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml:19:19-67
+uses-sdk
+INJECTED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Andre\.android\build-cache\65524ce786db9345542b8ccab3e8bc7cc183c7cf\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Andre\.android\build-cache\795c5a3e7a96c421ad91ffe398d61ace1e4cb1cf\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Andre\.android\build-cache\216cc2523b9961a96ac63898e2baf504f19c36d0\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Andre\.android\build-cache\c8333d645dbf70d1610ef3dc47f992ed5df2c8d7\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Andre\.android\build-cache\3ace30982d19a9d2dd0bff549104251367c32efb\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Andre\.android\build-cache\68232cc229f58eeb177172cd59d36e66f3411251\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Andre\.android\build-cache\0a33d1bed2b694a7fb1300defa716f8eac0808d9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Andre\.android\build-cache\db96f2cc4d600d58ba770ed833182d86c7eb910b\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Andre\.android\build-cache\9af8c7a036bc4a87d35dfe00aff4f9cf9493cfca\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Andre\.android\build-cache\048ddf6ebe4bb11dbe9aedb817221600632a3433\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Andre\.android\build-cache\65524ce786db9345542b8ccab3e8bc7cc183c7cf\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\AutoUIExcitement1\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Andre\.android\build-cache\65524ce786db9345542b8ccab3e8bc7cc183c7cf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Andre\.android\build-cache\795c5a3e7a96c421ad91ffe398d61ace1e4cb1cf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Andre\.android\build-cache\216cc2523b9961a96ac63898e2baf504f19c36d0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Andre\.android\build-cache\c8333d645dbf70d1610ef3dc47f992ed5df2c8d7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Andre\.android\build-cache\3ace30982d19a9d2dd0bff549104251367c32efb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Andre\.android\build-cache\68232cc229f58eeb177172cd59d36e66f3411251\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Andre\.android\build-cache\0a33d1bed2b694a7fb1300defa716f8eac0808d9\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Andre\.android\build-cache\db96f2cc4d600d58ba770ed833182d86c7eb910b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Andre\.android\build-cache\9af8c7a036bc4a87d35dfe00aff4f9cf9493cfca\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Andre\.android\build-cache\65524ce786db9345542b8ccab3e8bc7cc183c7cf\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Andre\.android\build-cache\65524ce786db9345542b8ccab3e8bc7cc183c7cf\output\AndroidManifest.xml:26:9-47

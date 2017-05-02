@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\AutoUIExcitement1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Andre\\.android\\build-cache\\65524ce786db9345542b8ccab3e8bc7cc183c7cf\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AutoUIExcitement1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Andre\\.android\\build-cache\\65524ce786db9345542b8ccab3e8bc7cc183c7cf\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AutoUIExcitement1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Andre\\.android\\build-cache\\65524ce786db9345542b8ccab3e8bc7cc183c7cf\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AutoUIExcitement1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Andre\\.android\\build-cache\\65524ce786db9345542b8ccab3e8bc7cc183c7cf\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
